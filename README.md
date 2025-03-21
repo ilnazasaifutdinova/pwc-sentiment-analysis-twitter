@@ -48,5 +48,11 @@ The project identifies tone, trends, and demographics to support brand strategy.
 
 ---
 
-## 📈 Visual Examples
+## 📈 Visual Example
+
+### ⏱️ Tweet Frequency Over Time
+This chart shows how often PwC was mentioned or reposted on Twitter over a certain time period.
+
+![Tweet Frequency](frequency-of-tweets.png)
+
 
